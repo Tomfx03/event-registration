@@ -1,5 +1,4 @@
-![image-4](https://github.com/Tomfx03/event-registration/assets/101335832/f9638d7c-86ee-4a3a-9e39-90ed1f025e32)# Event Registration Web Application
-
+## Event Registration Web Application
 ## AIM:
 To design, develop and deploy a web application for event registration.
 
@@ -177,6 +176,7 @@ Publish the website in the given URL.
 ![image-1](https://github.com/Tomfx03/event-registration/assets/101335832/acd35600-f400-4547-876f-6272e44f2549)
 ![image-2](https://github.com/Tomfx03/event-registration/assets/101335832/527b5128-cb4c-49a1-aa05-4835e1713a87)
 ![image-3](https://github.com/Tomfx03/event-registration/assets/101335832/b403c187-1775-4e80-ac8f-5ee100d62547)
+![image-4](https://github.com/Tomfx03/event-registration/assets/101335832/f9638d7c-86ee-4a3a-9e39-90ed1f025e32)
 
 ## Result:
 The program to design , develop adn deploy a web application for event registration is completed successfully.
